@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ayush Singhhhh 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -116,16 +116,21 @@ const SkillsSection = () => {
         <div className="flex flex-col skills-wrapper">
           {renderSectionTitle()}
           <div className="mt-10">
-            {renderSkillColumn("FRONTEND DEVELOPMENT", SKILLS.frontend)}
+            {renderSkillColumn("Programming", SKILLS["Programming"])}
           </div>
           <div className="flex flex-wrap mt-10">
             <div className="mr-6 mb-6">
               {renderSkillColumn(
-                "User Interface, User Experience Design",
-                SKILLS.userInterface
+                "Computer Vision",
+                SKILLS["Computer Vision"]
               )}
             </div>
-            <div>{renderSkillColumn("Other Skills", SKILLS.other)}</div>
+            <div className="mr-6 mb-6">
+              {renderSkillColumn("Large Language Models", SKILLS["Large Language Models"])}
+            </div>
+            <div>
+              {renderSkillColumn("Cloud Computing", SKILLS["Cloud Computing"])}
+            </div>
           </div>
         </div>
       </div>

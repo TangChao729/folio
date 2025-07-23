@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Rounded background -->
+    <rect width="128" height="128" rx="16" ry="16" 
+          fill="#ffffff" />
+    <!-- Original icon -->
+    <g transform="translate(0.0, 0.0) scale(0.9481481481481482)">
+        <ns0:namedview xmlns:ns0="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns1:showpageshadow="2" ns1:pageopacity="0.0" ns1:pagecheckerboard="0" ns1:deskcolor="#d1d1d1" ns1:document-units="mm" ns1:zoom="0.78216891" ns1:cx="414.23278" ns1:cy="400.16932" ns1:window-width="1920" ns1:window-height="1027" ns1:window-x="0" ns1:window-y="25" ns1:window-maximized="0" ns1:current-layer="layer1" />
+  <ns0:defs xmlns:ns0="http://www.w3.org/2000/svg" id="defs1">
+    <ns0:rect x="88.21624" y="75.431274" width="499.89203" height="334.966" id="rect4" />
+    <ns0:rect x="81.823761" y="131.6851" width="425.73923" height="263.37021" id="rect3" />
+  </ns0:defs>
+  <ns0:g xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" ns1:label="Layer 1" ns1:groupmode="layer" id="layer1">
+    <ns0:text xml:space="preserve" transform="matrix(0.69427069,0,0,0.69427069,-55.368375,17.299933)" id="text3" style="font-size:74.6667px;line-height:0;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;stroke-width:0.381095"><ns0:tspan x="88.216797" y="96.885648" id="tspan2"><ns0:tspan style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'" id="tspan1">CLIP</ns0:tspan></ns0:tspan></ns0:text>
+  </ns0:g>
+
+    </g>
+</svg>
