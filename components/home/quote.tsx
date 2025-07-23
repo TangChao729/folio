@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ayush Singhhhh 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -50,8 +50,7 @@ const QuoteSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I have a <span className="text-strong font-bold">strong</span> obsession
-        for attention to detail.
+        I do my work with <span className="text-strong font-bold">passion</span>.
       </h1>
     </div>
   );

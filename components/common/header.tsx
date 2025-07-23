@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ayush Singhhhh 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -17,7 +17,7 @@ const Header = () => {
         <a href="#home" className="link">
           <Image
             src="/logo.svg"
-            alt="Logo - Ayush Singh"
+            alt="Logo - Ayush Singhhhh"
             width={22}
             height={22}
           />

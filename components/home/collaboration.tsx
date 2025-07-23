@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ayush Singhhhh 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -106,14 +106,14 @@ const CollaborationSection = () => {
   return (
     <section className={COLLABORATION_STYLE.SECTION} ref={targetSection}>
       {renderSlidingText(
-        " User Interface Design  User Experience Design ",
+        " Deep Learning  Computer Vision  AI ",
         "ui-left"
       )}
 
       {renderTitle()}
 
       {renderSlidingText(
-        " Frontend Development  Motion Graphics ",
+        " Machine Learning  Data Engineering  ",
         "mt-6 md:mt-8 ui-right"
       )}
     </section>

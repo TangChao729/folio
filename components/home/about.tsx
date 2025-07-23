@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Ayush Singhhhh 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -69,16 +69,14 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I am a passionate UI Engineer who bridges the gap between development
-        and design.{" "}
+        ML Engineer building AI systems that bridge cutting-edge research with real-world impact.{" "}
       </span>
       <span
         className={`about-2 leading-tight ${
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I take responsibility to craft a good user experience using modern
-        frontend architecture.
+        Problem solver, always looking for the next challenge.
       </span>
     </h1>
   );
