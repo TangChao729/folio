@@ -204,7 +204,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     subtitle:
       "From The University of Melbourne",
     image: "/timeline/4_uom.jpg",
-    slideImage: "/timeline/6_graduation.jpg",
+    slideImage: "/timeline/6_graduation1.jpg",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
